@@ -1,1 +1,2 @@
 ﻿get-windowsupdatelog
+ gcm
